@@ -1,4 +1,10 @@
-# Reflection by
+# Reflection by Paul Sutkowski
 
-This lab required me to write a file called `ManipulateDNA`. Please review the
-Laboratory Assignment Sheet and add the required details to this paragraph.
+To complete this lab I had to use commands involing relpacing strings, setting
+userinout to uppercase, using random, int, and char, and knowing how to write
+the program in a way that will refer to all the changed input and present it
+together.
+
+This lab was challenging for me, at first. I was not sure what commands to use
+for some time. After I learned what commands were needed, this lab became easy,
+though time consuming.
